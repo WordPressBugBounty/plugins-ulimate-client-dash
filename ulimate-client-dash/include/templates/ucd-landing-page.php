@@ -122,7 +122,7 @@
 						$ucd_button_text = get_option('ucd_under_construction_button_text');
 						$ucd_button_link = get_option('ucd_under_construction_button_link');
 								if (!empty($ucd_button_text)) {
-										echo "<div class='ucd-button-holder'><a class='ucd-button' href=' ". $ucd_button_link ." ' target='_blank'>" . $ucd_button_text . "</a></div>";
+										echo "<div class='ucd-button-holder'><a class='ucd-button' href=' ". $ucd_button_link ." ' target='_blank'>" . esc_html( $ucd_button_text ) . "</a></div>";
 								}
 								else {
 								// Do not show Facebook Icon

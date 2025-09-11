@@ -3,7 +3,7 @@
 Plugin Name: Ultimate Client Dash
 Plugin URI: https://ultimateclientdash.com/
 Description: The ultimate tool for agencies & freelancers. Rebrand the Wordpress dashboard & login, leave personal notices for clients, create custom widgets, landing page mode and more.
-Version: 4.6
+Version: 4.7
 Author: WP Codeus
 Author URI: https://wpcodeus.com/
 License: GPL2
