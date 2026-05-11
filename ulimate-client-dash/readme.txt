@@ -4,7 +4,7 @@ Tags: client, white label, custom dashboard, branding, under construction, acces
 Requires at least: 4.6
 Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 4.7
+Stable tag: 4.7.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -142,6 +142,9 @@ We do have plans to integrate a network install and also an import export featur
 
 
 == Changelog ==
+
+= 4.7.1 =
+* Fix: Security improvement
 
 = 4.7 =
 * Fix: Security improvement
