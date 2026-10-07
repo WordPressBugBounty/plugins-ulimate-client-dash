@@ -2,7 +2,7 @@
 Contributors: wpcodeus
 Tags: client, white label, custom dashboard, branding, under construction, access, role
 Requires at least: 4.6
-Tested up to: 6.9
+Tested up to: 7.1
 Requires PHP: 7.4
 Stable tag: 4.7.1
 License: GPLv2 or later
